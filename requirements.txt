@@ -1,0 +1,11 @@
+# Image Converter Pro - Dependencies
+# Python 3.8+ required
+
+# GUI Framework
+PyQt5>=5.15.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# Optional: For building executables
+# pyinstaller>=6.0.0
