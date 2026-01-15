@@ -14,7 +14,7 @@ class ConversorWebP:
         self.root.title("Conversor de Imagens para WebP")
         self.root.geometry("700x600")
         self.root.resizable(True, True)
-
+        
         # Variáveis
         self.diretorio_selecionado = tk.StringVar()
         self.qualidade = tk.IntVar(value=80)
